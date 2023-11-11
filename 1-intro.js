@@ -1,12 +1,9 @@
-
-
-const amount = 12
+const amount = 12;
 
 if (amount < 10) {
-    console.log('small number');
-}
-else{
-    console.log('large number');
+  console.log("small number");
+} else {
+  console.log("large number");
 }
 
-console.log(`first app`)
+console.log(`first app`);

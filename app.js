@@ -12,3 +12,8 @@
 // npm install (install all package in package.json dependencies)
 
 // npm i <packageName> -D (dev dependencies)
+
+// npm run => run start
+// npm run dev => run dev
+
+require("./index");
